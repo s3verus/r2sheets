@@ -17,7 +17,7 @@ r2pm search name          # search for packages
 for example:
 > r2pm install r2ghidra     #[r2ghidra](https://github.com/radareorg/r2ghidra) the native ghidra decompiler plugin: `pdg` command
 
-##quick start
+## quick start
 
 run:<br>
 ~$: r2 ./file.bin
@@ -67,9 +67,9 @@ disassemble function:<br>
 quit program:<br>
 \[0x08048890\]> q
 
-###debugging<br>
+### debugging<br>
 soon...<br>
-###patching<br>
+### patching<br>
 soon...<br>
-###virtual mode<br>
+### virtual mode<br>
 soon...
